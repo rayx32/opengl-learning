@@ -1,0 +1,19 @@
+{
+  "name": "itchengine",
+  "version": "0.1",
+  "dependencies": [
+    {
+      "name": "sdl2",
+      "version>=": "2.0.22"
+    },
+    {
+      "name": "sdl2-image",
+      "version>=": "2.6.2"
+    },
+    {
+      "name": "sdl2-ttf",
+      "version>=": "2.20.0"
+    }
+  ],
+  "builtin-baseline": "cf1fda5443f2acfa976d5bda70c50fa22c26fe80"
+}
